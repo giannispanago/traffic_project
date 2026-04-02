@@ -1,0 +1,15 @@
+window_5min;direction;avg_speed_kmh
+1.0;inbound;66
+1.0;outbound;37
+2.0;inbound;67
+2.0;outbound;39
+3.0;inbound;70
+3.0;outbound;47
+4.0;inbound;65
+4.0;outbound;37
+5.0;inbound;70
+5.0;outbound;38
+6.0;inbound;67
+6.0;outbound;35
+7.0;inbound;62
+7.0;outbound;36
